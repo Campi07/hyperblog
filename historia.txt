@@ -1,1 +1,3 @@
-holal esta es mi historia
+hola esta es mi historia
+me llamo juan
+quiero aprender a programar
